@@ -1,0 +1,80 @@
+{
+    "products":[
+       { "id":1,
+       "product_Name":"puma" ,
+       "product_type": "shoe",
+       "MRP":499,
+       "ratings":8.5,
+       "gender":"male",
+       "color":"white",
+       "review":"good",
+       "productpic":"https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/x/q/e/-original-imagzhzufpjgxzes.jpeg?q=70"
+
+    },
+    { "id":2,
+       "product_Name":"flite" ,
+       "product_type": "slipper",
+       "MRP":299,
+       "ratings":9.5,
+       "gender":"female",
+       "color":"brown",
+       "review":"good",
+       "productpic":"https://rukminim1.flixcart.com/image/612/612/l2hwwi80/slipper-flip-flop/e/u/k/6-pul-105-flite-brown-original-imagdu664aszzchj.jpeg?q=70"
+       
+    },
+    { "id":3,
+       "product_Name":"watch" ,
+       "product_type": "rolex",
+       "MRP":599,
+       "ratings":8.0,
+       "gender":"male",
+       "color":"black",
+       "review":"not bad",
+       "productpic":"https://rukminim1.flixcart.com/image/832/832/xif0q/watch/d/u/v/1-8yviq-i-square-black-t50-led-flozio-boys-original-imagk8skzrucqtew.jpeg?q=70"
+       
+    },
+    { "id":4,
+       "product_Name":"shirt" ,
+       "product_type": "Calvin",
+       "MRP":599,
+       "ratings":8.0,
+       "gender":"male",
+       "color":"white",
+       "review":"good",
+       "productpic":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/1/c/q/-original-imagzj6kgnhpge8a.jpeg?q=70"
+       
+    },
+    { "id":5,
+       "product_Name":"mobile" ,
+       "product_type": "oneplus",
+       "MRP":850000,
+       "ratings":9.5,
+       "gender":"female",
+       "color":"blue",
+       "review":"very good",
+       "productpic":"https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/k/w/k/-original-imagg2abzhxjckxu.jpeg?q=70"
+       
+    },
+    { "id":6,
+    "product_Name":"shirt" ,
+    "product_type": "Calvin",
+    "MRP":599,
+    "ratings":8.0,
+    "gender":"male",
+    "color":"white",
+    "review":"good",
+    "productpic":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/1/c/q/-original-imagzj6kgnhpge8a.jpeg?q=70"
+    
+ },
+ { "id":7,
+    "product_Name":"mobile" ,
+    "product_type": "oneplus",
+    "MRP":850000,
+    "ratings":9.5,
+    "gender":"female",
+    "color":"blue",
+    "review":"very good",
+    "productpic":"https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/k/w/k/-original-imagg2abzhxjckxu.jpeg?q=70"
+}
+    ]
+}

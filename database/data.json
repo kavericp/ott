@@ -1,0 +1,178 @@
+{
+  "movies": [
+    {
+      "moviename": "KANTARA",
+      "hero": "Rishab Shetty",
+      "heroine": "Saptami Gowda",
+      "director": "Rishab",
+      "languages": [],
+      "genre": "COMEDY",
+      "poster": "https://static.toiimg.com/thumb/msid-97698497,width-1280,resizemode-4/97698497.jpg",
+      "trailer": "https://www.youtube.com/embed/ppYoIoW73PI",
+      "release": "2022",
+      "rating": "9.0",
+      "synopsis": "Set in a fictional village of Dakshina Kannada, Kantara is a visual grandeur that brings alive the traditional culture of Kambla and Bhootha Kola. It is believed that Demigods are the guardians and their energies encircle the village. In the story, there is a ripple when a battle of ego swirls along tradition and culture of the land.",
+      "id": 1
+    },
+    {
+      "moviename": "RRR",
+      "hero": "NTR Ramcharan",
+      "heroine": "Alia",
+      "director": "Rajmouli",
+      "languages": [
+        "tamil",
+        "telugu"
+      ],
+      "genre": "divine,comedy",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/rrr-et00094579-12-05-2022-02-26-04.jpg",
+      "trailer": "https://www.youtube.com/embed/GY4BgdUSpbE",
+      "release": "",
+      "rating": "9",
+      "synopsis": "RRR is a period drama set in India during the 1920s, revolving around the inspiring journey of two of India`s freedom fighters - Alluri Sitarama Raju and Komaram Bheem.",
+      "id": 3
+    },
+    {
+      "id": "4",
+      "moviename": "apthamitra",
+      "hero": "vishuvardhan",
+      "heroine": "soudariya",
+      "director": "p vasu",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "horror",
+      "poster": "https://m.media-amazon.com/images/I/81duXR-7hOL._SL1420_.jpg",
+      "trailer": "https://www.youtube.com/embed/Gf-qmEbnL0I",
+      "release": "2004",
+      "rating": 10,
+      "synopsis": "stars Vishnuvardhan, Soundarya and Ramesh Arvind in the lead roles with Prema, Dwarakish and Avinash in supporting roles. The movie is a remake of the 1993 Malayalam film Manichithrathazhu.[4] The film was released on 27 August 2004 on Varalakshmi festival to positive reviews.[5]It ran for one-hundred days in theaters across Karnataka and was one of the highest-grossing films of the year.[6] Apthamitra was later followed by its sequel, Aptharakshaka (2010). P. Vasu also remade the film in Tamil in 2005 as Chandramukhi with Rajinikanth and Jyothika in the leads. Actress Soundarya is remembered for her performance in this film?"
+    },
+    {
+      "id": 5,
+      "moviename": "Love mocktail",
+      "hero": "Darling Krishna",
+      "heroine": "Milana Nagaraj , Amrutha",
+      "director": "Darling Krishna",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "romance",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-mocktail-et00124382-20-10-2020-09-58-18.jpg",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2020",
+      "rating": 8,
+      "synopsis": "Love moctail is a romantic and fun film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?"
+    },
+    {
+      "moviename": "Kranti",
+      "hero": "Darshan",
+      "heroine": "rachitha ram",
+      "director": "V harikrishna",
+      "languages": [
+        "kannada",
+        "telugu"
+      ],
+      "genre": "action drama",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kranti-et00323056-1674117298.jpg",
+      "trailer": "https://www.youtube.com/embed/IypndIAmCAw",
+      "release": "",
+      "rating": "10",
+      "synopsis": "Chief of Salatri Group wants to takeover 12,000 government schools and privatize them. The ministers are hand-in-glove with him. Now, only a revolution can stop this.",
+      "id": 6
+    },
+    {
+      "moviename": "Roberrt",
+      "hero": "Darshan",
+      "heroine": "Asha bhat",
+      "director": "Tharun sudhir",
+      "languages": [],
+      "genre": " Thriller",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/roberrt-et00121878-11-01-2021-01-44-42.jpg",
+      "trailer": "https://www.youtube.com/embed/IBPdSqV2gjs",
+      "release": "",
+      "rating": "9.5",
+      "synopsis": "Roberrt lives in Lucknow with his son but their life takes a turn when his son`s mischievous behavior lands him at a critical place to deal with a huge blunder. The ministers are hand-in-glove with him. Now, only a revolution can stop this.",
+      "id": 7
+    },
+    {
+      "moviename": "Love mocktail",
+      "hero": "Darling Krishna",
+      "heroine": "Milana Nagaraj , Amrutha",
+      "director": "Darling Krishna",
+      "languages": [],
+      "genre": "romance ",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-mocktail-et00124382-20-10-2020-09-58-18.jpg",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "",
+      "rating": "8",
+      "synopsis": "Love moctail is a romantic and fun film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "moviename": "Kranti",
+      "hero": "Darshan",
+      "heroine": "rachitha ram",
+      "director": "v harikrishna",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "action drama",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kranti-et00323056-1674117298.jpg",
+      "trailer": "https://www.youtube.com/embed/IypndIAmCAw",
+      "release": "2023",
+      "rating": 10,
+      "synopsis": "Chief of Salatri Group wants to takeover 12,000 government schools and privatize them. The ministers are hand-in-glove with him. Now, only a revolution can stop this."
+    },
+    {
+      "moviename": "BulBul",
+      "hero": "Darshan",
+      "heroine": "Rachitha ram",
+      "director": "M D shrider",
+      "languages": [
+        "kannada",
+        "Telugu"
+      ],
+      "genre": "comedy",
+      "poster": "https://img.youtube.com/vi/MjNiOtT3uMc/0.jpg",
+      "trailer": "https://www.youtube.com/embed/OcMHvQNKDHk",
+      "release": "2016",
+      "rating": "9.5",
+      "synopsis": "`Bulbul` takes off from a college farewell party and depicts the friendship between college friends even decades after they have passed out from college. This rom-com is a remake of the Telugu film `Darling` and has been directed by Sridhar M D and Mallikarjun Sankanagowdar. Darshan, Ambarish, Rachita Ram, Sharat Lohitashwa and Spoorthi Suresh stars in it.",
+      "id": 11
+    },
+    {
+      "moviename": "Nenu shailaja",
+      "hero": "Ram Pothineni",
+      "heroine": "Keerti suresh",
+      "director": "Kishor tirumal",
+      "languages": [
+        "Telugu"
+      ],
+      "genre": "roamance",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/nenu-shailaja-et00036525-12-10-2020-06-33-25.jpg",
+      "trailer": "https://www.youtube.com/embed/i916BRRHoTg",
+      "release": "2016",
+      "rating": "9.0",
+      "synopsis": "Hari is a young man who wants to fall in love and enjoy life. Unfortunately, all the girls keep rejecting him and he decides not to fall in love again. But destiny has other plans and introduces him to the lovely Shailaja.",
+      "id": 12
+    },
+    {
+      "moviename": "",
+      "hero": "",
+      "heroine": "",
+      "director": "",
+      "languages": [
+        "Telugu",
+        "Tamil"
+      ],
+      "genre": "",
+      "poster": "",
+      "trailer": "",
+      "release": "",
+      "rating": "",
+      "synopsis": "",
+      "id": 13
+    }
+  ]
+}
